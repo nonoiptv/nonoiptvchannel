@@ -4,6 +4,11 @@
 💻 Atualmente desenvolvendo um microSaaS para facilitar o **controle de orçamentos** e **experiências interativas** na área criativa.  
 🚀 Sempre buscando transformar **ideias visuais** em produtos digitais e experiências memoráveis.
 
+<div>
+  <a href="https://github.com/nonoiptv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nonoiptv&theme=blue-green&show_icons=true"/>
+</div>
+
 ### 🧰 Tecnologias que uso no dia a dia:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
